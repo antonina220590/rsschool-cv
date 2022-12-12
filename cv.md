@@ -6,3 +6,14 @@
 ## About me
 Couple of months ago I decided to try muself in site layout. As I have never ever studied programming languages I did my first layouts in cms Joomla. Then I understood that I really like the process and I can improve my skills thanks to css and html. This is a main reason why I have decided to learn this programming languages in RS school.
 I belife that my ability to learn, my purposefulness and luckiness will help me to become a succeful Frontend Developer.
+## Skills
+*Git, GitHub\
+*CMS Joomla\
+*VS Code
+## Education 
+* Kazakh University of world languages and international relationships
+    - International public law 
+* Ferrara University 
+    - Tax law 
+* Plekhanov Russian University of Economics
+    - Logistics
