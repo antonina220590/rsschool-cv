@@ -24,3 +24,18 @@ function toBinary(n){
 * CV
 * Plants
 * Momentum
+
+## Education
+* Kazakh University of world languages and international relationships
+    - International public law
+* Ferrara University
+    - Tax law
+* Plekhanov Russian University of Economics
+    - Logistics
+* The Rolling Scopes
+    - JavaScript/Front-end (Stage 0)
+## Languages
+* Russian - native speaker
+* English - intermediate
+* German  - beginner
+* French -  beginner
